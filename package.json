@@ -1,0 +1,16 @@
+{
+  "name": "redis_cache",
+  "version": "1.0.0",
+  "description": "verify with and without redis cache API response time",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "srinivas kandukuri",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "redis": "^2.8.0"
+  }
+}
